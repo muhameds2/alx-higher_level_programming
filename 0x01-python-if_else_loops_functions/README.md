@@ -1,0 +1,1 @@
+0-positive _or_negative: program that will assign a rnd to variable then checks if negative or positive
