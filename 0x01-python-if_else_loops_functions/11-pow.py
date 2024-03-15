@@ -4,3 +4,4 @@ def pow(a, b):
     while (i < b):
         a = a * a
         i = i + 1
+    return a
