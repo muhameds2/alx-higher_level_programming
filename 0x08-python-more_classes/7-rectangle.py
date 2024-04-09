@@ -5,7 +5,6 @@ this module contains the class Rectangle
 
 
 class Rectangle:
-    
     number_of_instances = 0
     print_symbol = "#"
 
