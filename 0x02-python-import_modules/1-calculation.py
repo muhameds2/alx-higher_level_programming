@@ -10,5 +10,4 @@ if __name__ == "__main__":
     divv = calculator_1.div(a, b)
     print("{} + {} = {}".format(a, b, summ))
     print("{} - {} = {}".format(a, b, sub))
-    print("{} * {} = {}".format(a, b, mul))
-    print("{} / {} = {}".format(a, b, divv))
+    print("{} * {} = {}\n{} / {} = {}".format(a, b, mul, a, b, divv))
